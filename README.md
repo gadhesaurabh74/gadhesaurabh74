@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gadhesaurabh74" alt="gadhesaurabh74" /></a> </p>
 
-- 🔭 I’m currently working on **Chess Website**
+- 🔭 I’m currently working on **Online Code Sharing Platform**
 
 - 🌱 I’m currently learning **React, Next js**
 
